@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+JP&family=SUSE+Mono:ital,wght@0,100..800;1,100..800&display=swap');
+
+
+
+body{
+background: green
+
+}
+h1{
+    font-family: 'IBM Plex Sans JP', sans-serif;
+    color: white;
+    font-size: 50px;
+    margin-top: 40px;
+}
+header{
+     text-align: center;
+     margin-bottom:40px;
+
+}
