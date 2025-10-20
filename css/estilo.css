@@ -9,7 +9,7 @@
 }
 
 body {
-    background: rgb(12, 138, 22);
+    background: rgb(1, 0, 16);
     line-height: 1.6;
 }
 
@@ -52,7 +52,7 @@ header {
 }
 
 #menu-principal {
-    background-color: rgb(71, 110, 16);
+    background-color: rgb(19, 0, 57);
     padding: 10px 20px;
     text-align: center;
     margin-top: 20px;
@@ -73,7 +73,7 @@ header {
 
 #menu-principal a {
     text-decoration: none;
-    color: rgb(241, 234, 234);
+    color: aliceblue;
     font-weight: bolder;
     font-family: "Asimovian", sans-serif;
     font-size: 20px;
@@ -82,20 +82,20 @@ header {
 }
 
 #menu-principal a:hover {
-    background-color: rgb(71, 71, 10);
+    background-color: rgb(83, 58, 119);
     color: white;
     border-radius: 10px;
 }
 
 #bienvenida {
-    background-color: rgb(10, 26, 47);
+    background-color: rgb(42, 3, 96);
     padding: 30px 40px;
     margin-bottom: 20px;
 }
 
 /* Foto especifica de perfil */
 #Foto-de-perfil {
-    border: solid rgb(62, 55, 18) 5px;
+    border: solid rgb(255, 253, 253) 5px;
     border-radius: 10%;
     display: block;
     margin: 20px auto;
@@ -103,7 +103,7 @@ header {
 }
 
 #experiencia {
-    background-color: rgb(10, 26, 47);
+    background-color: rgb(0, 5, 10);
     padding: 30px 40px;
     border-top: solid rgb(255, 253, 253) 5px;
     margin-bottom: 20px;
@@ -117,7 +117,7 @@ header {
 }
 
 .proyecto {
-    border: solid rgb(10, 26, 47) 2px;
+    border: solid rgb(255, 253, 253) 2px;
     width: 30%;
     min-width: 300px;
     border-radius: 10px;
@@ -127,7 +127,7 @@ header {
 
 #habilidades {
     padding: 20px 30px;
-    background-color: rgb(10, 26, 47);
+    background-color: rgb(39, 2, 89);
     margin-bottom: 20px;
 }
 
@@ -141,7 +141,7 @@ header {
 }
 
 .lista-tecnologias li {
-    background-color: rgb(10, 26, 47);
+    background-color: rgb(0, 41, 163);
     color: rgb(255, 253, 253);
     padding: 12px 20px;
     border-radius: 25px;
@@ -157,7 +157,7 @@ progress {
 
 #contacto {
     padding: 30px 20px;
-    background-color: rgb(10, 26, 47);
+    background-color: rgb(4, 0, 72);
     border-top: solid 5px rgb(255, 255, 255);
     color: rgb(255, 255, 255);
     font-family: "Changa", sans-serif;
@@ -180,8 +180,8 @@ progress {
 }
 
 #contacto button {
-    background-color: rgb(69, 66, 18);
-    color: rgb(25, 7, 7);
+    background-color: rgb(67, 0, 111);
+    color: rgb(255, 255, 255);
     padding: 15px 30px;
     border-radius: 10px;
     border: none;
@@ -193,7 +193,7 @@ progress {
 }
 
 #contacto button:hover {
-    background-color: rgb(10, 26, 47);
+    background-color: rgb(90, 0, 150);
 }
 
 .campos {
@@ -217,13 +217,13 @@ footer {
     font-family: "Asimovian", sans-serif;
     text-align: center;
     padding: 20px;
-    background-color: rgb(10, 26, 47);
+    background-color: rgb(19, 0, 57);
     border-top: solid 3px rgba(251, 252, 255, 0.579);
 }
 
 mark {
     background-color: yellow;
-    color: rgba(0, 0, 0, 0.993);
+    color: black;
 }
 
 aside {
